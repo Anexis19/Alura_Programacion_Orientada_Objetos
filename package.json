@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anexis19/Alura_Programacion_Orientada_Objetos/issues"
   },
-  "homepage": "https://github.com/Anexis19/Alura_Programacion_Orientada_Objetos#readme"
+  "homepage": "https://github.com/Anexis19/Alura_Programacion_Orientada_Objetos#readme",
+  "type":"module"
+
 }
+
